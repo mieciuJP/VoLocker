@@ -8,7 +8,7 @@
 - Blocks volume keys when locked, passes them to the system when unlocked.
 
 ## Installation
-Copy the `VoLocker` folder to your NVDA `addons` directory and restart NVDA.
+Install the add-on from the [latest release](https://github.com/mieciuJP/VoLocker/releases/latest).
 
 ## Author
 Adula
